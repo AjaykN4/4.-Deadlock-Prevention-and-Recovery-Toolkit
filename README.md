@@ -133,6 +133,3 @@ Found a bug? Have an improvement idea?
 - **Submit a Pull Request!** 🚀  
 
 ---
-
-### **📧 Contact**  
-For any issues or suggestions, reach out via **GitHub Issues**.
